@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.scenenummer2.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Anne Marleen.DESKTOP-QS7AOLD\\Desktop\\anne\\Scene-nummer2\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Scene-nummer2 [Testing]"
+        }
+      }
+    }
+  ]
+}
