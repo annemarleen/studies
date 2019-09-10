@@ -1,6 +1,6 @@
 # Building healing spaces in virtual reality (ongoing project)
 
-This is my little workspace-repo to start building VR-experiences that are sweat and soft. It is a learning tool for myself as well as my students, whom I lecture at the University of Applied Science in Amsterdam. I have been teaching 'Immersive Design XR' lessons to students for three years now and have used materials from my background in Architecture and Industrial Design Engineering, Fashion Design and my work at the Faculty of Digital Media and Creative Industries. I feel the need to make some of my own tools in Unity, to use tiny mockups for learning more about virtual space, movement analysis (kinespheres) and interaction techniques in virtual reality. 
+This is my little workspace-repo to start building VR-experiences that are sweet and soft. It is a learning tool for myself as well as my students, whom I lecture at the University of Applied Science in Amsterdam. I have been teaching 'Immersive Design XR' lessons to students for three years now and have used materials from my background in Architecture and Industrial Design Engineering, Fashion Design and my work at the Faculty of Digital Media and Creative Industries. I feel the need to make some of my own tools in Unity, to use tiny mockups for learning more about virtual space, movement analysis (kinespheres) and interaction techniques in virtual reality. 
 	
 My course so far [Immersive Design XR](https://annemarleen.gitbook.io/immersive-design/)
 
